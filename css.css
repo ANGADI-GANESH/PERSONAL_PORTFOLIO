@@ -173,7 +173,7 @@ section .title::after {
   color: #fff;
 }
 
-/* menu btn styling */
+
 .menu-btn {
   color: #fff;
   font-size: 23px;
@@ -275,7 +275,7 @@ section .title::after {
   background: none;
 }
 
-/* about section styling */
+
 .about .title::after {
   content: "who I am";
 }
@@ -330,7 +330,7 @@ section .title::after {
   background: none;
 }
 
-/* services section styling */
+
 .services,
 .teams {
   color: #fff;
@@ -345,7 +345,7 @@ section .title::after {
 .services .title::after,
 .teams .title::after {
   background: #111;
-  content: "What I provide";
+  content: "Projects Done";
 }
 
 .services .serv-content .card {
@@ -387,10 +387,9 @@ section .title::after {
   margin: 10px 0 7px;
 }
 
-/* skills section styling */
 
 .skills .title::after {
-  content: "what I know";
+  content: "What I know";
 }
 
 .skills .skills-content .column {
@@ -504,7 +503,7 @@ section .title::after {
   background: crimson !important;
 }
 
-/* contact section styling */
+
 .contact .title::after {
   content: "get in touch";
 }
@@ -619,7 +618,7 @@ section .title::after {
   background: none;
 }
 
-/* footer section styling */
+
 footer {
   background: #111;
   padding: 15px 23px;
@@ -636,7 +635,7 @@ footer span a:hover {
   text-decoration: underline;
 }
 
-/* responsive media query start */
+
 @media (max-width: 1104px) {
   .about .about-content .left img {
     height: 350px;
